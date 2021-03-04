@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SBPD-DP01A-06-DOSTAD104-recovered_wfp-dpc_optode_instrument_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: DO<br>
